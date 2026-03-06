@@ -8,7 +8,7 @@
   </ul>
 </div>
 
-- 🎓 Automotive Engineering Politecnico di Torino
+- 🎓 Automotive Engineering [@ Politecnico di Torino](polito.it "Located in Torino, Italy")
 - 🌱 🚗 What I'm Currently Learning
 
 I’m currently focusing on **Autonomous Driving Systems**, studying how self-driving vehicles perceive their environment, make decisions, and control motion.
