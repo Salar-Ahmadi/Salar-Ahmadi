@@ -25,7 +25,7 @@ Key areas I’m working on include:
 
 ### 🖥 Skills
 
-Python • MATLAB • SolidWorks • Q-Form • Artificial Neural Networks • Deep Learning • CNNs • Computer Vision • Control Systems • Estimation • Automation • Graph Theory
+Python • MATLAB • SolidWorks • Q-Form • Control Systems • Estimation • Automation 
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
